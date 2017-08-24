@@ -1,0 +1,19 @@
+{
+  "name": "tech_radar",
+  "version": "1.0.0",
+  "description": "Tech Radar",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor protractor.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svillegasz/tech-radar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svillegasz/tech-radar/issues"
+  },
+  "homepage": "https://github.com/svillegasz/tech-radar#readme"
+}
